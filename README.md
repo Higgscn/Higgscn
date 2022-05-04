@@ -1,6 +1,6 @@
 - Hi, I’m @Higgscn
 - I’m interested in space
-- I’ currently learning java and c++
+- I’ currently learning java and Python
 - I’m looking to collaborate on furnace
 - How to reach me by e-mail
 
